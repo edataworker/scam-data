@@ -1,4 +1,4 @@
-From: AcrobatCompliance Office <kadiryurdakul@ogr365.iyte.edu.tr>
+FROM: AcrobatCompliance Office <kadiryurdakul@ogr365.iyte.edu.tr>
 To: ***********
 Date: 07/16/2026 3:47 PM EDT
 Subject: "Fresh Document Uploaded to Your Section – Signature Requested",
@@ -18,3 +18,6 @@ Adobe Sign
 By proceeding, you agree this agreement may be signed using electronic or handwritten signatures.
 Terms of Use Record Notice
 ©2026Adobe. All rights reserved.
+
+HOW TO SPOT IT'S A SCAM?
+Just check the email- Its masked as if it was sent from the AcrobatCompliance Office. In that case, the domain should be *@adobe.com not something else.
