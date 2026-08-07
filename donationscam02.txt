@@ -1,0 +1,28 @@
+FROM: Olaug Svarva <bilgeyilmaz@gantep.edu.tr>
+DATE: August 10, 2026
+IMAGE: donationscam02.png
+
+Dear Email User,
+
+Compliments of the day.
+
+My name is Olaug Svarva, and I am with DNB Financial Services, Norway.
+
+I would like to confirm whether this email address is active. If it is, I would appreciate it if you could kindly reply, as I have a business proposal that I would like to discuss with you.
+
+I look forward to hearing from you soon.
+
+Sincerely,
+Olaug Svarva
+DNB Financial Services, Norway
+
+====================================
+Full Email Header
+====================================
+from:	Olaug Svarva <bilgeyilmaz@gantep.edu.tr> - This is the hacked email address the scammer is using.
+reply-to:	olaugsvarva40@hotmail.com - This is the real email address of the scammer
+to:	
+date:	Aug 7, 2026, 6:22 PM
+subject:	Dear Email User
+mailed-by:	gantep.edu.tr
+signed-by:	gantep.edu.tr
