@@ -1,6 +1,6 @@
 FROM: Andreas Von Bechtolsheim <ali.npd@dinarmakmur.com>
 DATE: 2026-08-02
-IMAGE: images/donation-001.jpg
+IMAGE: donationscam01.png
 
 My name is Andreas Von Bechtolsheim, a German entrepreneur and investor, and the co-founder of Sun Microsystems in 1982, where I served as the chief hardware designer.
 
