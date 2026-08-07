@@ -1,4 +1,4 @@
-FROM: scammer@fake-email.com
+FROM: 9681@sk5ty.sb004.licensesmarket.biz.ua
 DATE: August 10, 2026
 IMAGE: storagescam2.PNG
 
