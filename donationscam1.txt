@@ -12,3 +12,14 @@ Reply with the DONATION CODE to this  email: vonbechtolsheimandreas@gmail.com
 ‎
 ‎Sincerely,
 ‎Andreas Von Bechtolsheim
+
+=========================
+Raw email header
+========================
+from:	Andreas Von Bechtolsheim <ali.npd@dinarmakmur.com> - The scammer masked his email
+reply-to:	vonbechtolsheimandreas@gmail.com - This is the real email of the scammer
+to:	*******@gmail.com <hidden for privacy> - This is recepient email
+date:	Aug 2, 2026, 3:59 PM
+subject:	donation
+mailed-by:	dinarmakmur.com - This is fake mask
+========================
