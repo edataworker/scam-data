@@ -1,7 +1,6 @@
 FROM: alert-4411@esvbj.cmk via lsbl.sb008.endlessodyssey.my.id
 DATE: Aug 4, 2026, 4:32 AM
-IMAGE: storagescam.png
-
+IMAGE: storagescam.PNG
 
 ☁️ Cloud! Storage capacity may be approaching its limit
 Cloud storage review recommended
