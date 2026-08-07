@@ -1,0 +1,28 @@
+FROM: alert-4411@esvbj.cmk via lsbl.sb008.endlessodyssey.my.id
+DATE: Aug 4, 2026, 4:32 AM
+IMAGE: storagescam.png
+
+
+☁️ Cloud! Storage capacity may be approaching its limit
+Cloud storage review recommended
+Insufficient space may impact syncing and backups
+What you should know
+When available cloud storage is limited, some features such as file syncing, photo backups, and document access may be temporarily restricted.
+Storage summary
+Status: Review recommended
+Action: Check current usage
+REVIEW STORAGE
+Unsubscribe
+10736 N Frank Lloyd Wright Blvd, Ste 105, Scottsdale, AZ 85259, US
+
+===================================
+Actual Email Header
+===================================
+from:	<alert-4411@esvbj.cmk> via lsbl.sb008.endlessodyssey.my.id 
+sent by:	Trusted Sender 
+to:	me@aol.com
+date:	Aug 4, 2026, 4:32 AM
+subject:	⛔️ 97% Full: Upgrade Now and Secure Your Data
+mailed-by:	sb008.endlessodyssey.my.id
+signed-by:	LSBl.sb008.endlessodyssey.my.id
+===================================
